@@ -43,7 +43,7 @@
       "type": "image/jpeg"
     }
   ],
-  "start_url": "ric-games/index.html",
+  "start_url": "/ric-games/index.html",
   "display": "standalone",
   "background_color": "#000",
   "theme_color": "#ffff00"
